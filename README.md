@@ -1,4 +1,5 @@
-Contact App
+#Contact App,
+
 This Android application allows users to manage their contacts efficiently. It provides features to add new contacts, view existing contacts, update contact details, and delete contacts from the device.
 
 Features
